@@ -2,7 +2,7 @@
 <HTML>
   <meta http-equiv=”Content-Type” content=”text/html; charset=ISO-8859-1″ />
   <head>
-    <title>Introduccion desarrollo de software </title>
+    Introduccion desarrollo de software 
   </head>
   <body>
       <h1>Tarea introduccion al desarrollo de software</h1>
